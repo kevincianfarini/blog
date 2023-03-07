@@ -52,22 +52,24 @@ The table below shows some of the most popular ESG funds and their associated co
 | Parnassus Core Equity Investor  | `$PRBLX` | 0.82%         | $236,895           | $1,541,913                    |
 | Shelton Green Alpha Fund        | `$NEXTX` | 1.16%         | $324,364           | $1,454,444                    |
 
-As you can see, the overhead associated with actively managed funds can be quite significant. 
-Even in the least expensive scenario, though, your investments might not be 
-doing nearly as much good for the climate as you'd hope. Despite their qualification as ESG
-funds, your shares are still voted against the climate. 
+The lackluster voting record of the above ESG funds above were bimodal. The cheaper funds (Vanguard's
+and BlackRock's) tended to vote poorly on climate proposals. However, more expensive and carefully 
+curated funds tended to vote better for climate, but lacked exposure to some of the biggest companies 
+during the shareholder voting process to make a big difference. Notably, `$NEXTX` only holds 51 companies,
+roughly 1/10th of the S&P 500. 
 
-| Company               | Proposal                                                                                       | Management Recommendation | `$VFTAX` Vote<sup>2</sup> | `$SUSA` Vote<sup>3</sup> | `$PRBLX` Vote<sup>4</sup> | `$NEXTX` Vote<sup>5</sup> |
+| Company               | Proposal                                                                                       | Management Recommendation | `$VFTAX` Vote<sup>1</sup> | `$SUSA` Vote<sup>2</sup> | `$PRBLX` Vote<sup>3</sup> | `$NEXTX` Vote<sup>4</sup> |
 |-----------------------|------------------------------------------------------------------------------------------------|---------------------------|---------------------------|--------------------------|---------------------------|---------------------------|
-| Campbell Soup Company | Assess and Report on the Company's Retirement Funds' Management of Systemic Climate Risk       | Against                   | Against                   | TODO                     | TODO                      | TODO                      |
-| General Mills, Inc    | Report on Absolute Plastic Packaging Use Reduction                                             | Against                   | Against                   | TODO                     | TODO                      | TODO                      |
-| Fedex Corporation     | Report on Climate Lobbying                                                                     | Against                   | Against                   | TODO                     | TODO                      | TODO                      |
-| Tesla, Inc            | Report on Corporate Climate Lobbying in line with Paris Agreement                              | Against                   | Against                   | TODO                     | TODO                      | TODO                      |
-| The Kroger Co.        | Report on Efforts to Eliminate HFCs in Refrigeration and Reduce GHG Emissions                  | Against                   | Against                   | TODO                     | TODO                      | TODO                      |
-| Morgan Stanley        | Adopt Fossil Fuel Lending and Underwriting Policy Consistent with IEA's Net Zero 2050 Scenario | Against                   | Against                   | TODO                     | TODO                      | TODO                      |
+| Campbell Soup Company | Assess and Report on the Company's Retirement Funds' Management of Systemic Climate Risk       | Against                   | Against                   | Against                  | N/A                       | N/A                       |
+| General Mills, Inc    | Report on Absolute Plastic Packaging Use Reduction                                             | Against                   | Against                   | Against                  | N/A                       | N/A                       |
+| Fedex Corporation     | Report on Climate Lobbying                                                                     | Against                   | Against                   | Against                  | For                       | N/A                       |
+| Tesla, Inc            | Report on Corporate Climate Lobbying in line with Paris Agreement                              | Against                   | Against                   | For                      | N/A                       | N/A                       |
+| The Kroger Co.        | Report on Efforts to Eliminate HFCs in Refrigeration and Reduce GHG Emissions                  | Against                   | Against                   | Against                  | N/A                       | N/A                       |
+| Morgan Stanley        | Adopt Fossil Fuel Lending and Underwriting Policy Consistent with IEA's Net Zero 2050 Scenario | Against                   | Against                   | Against                  | N/A                       | N/A                       |
 
-So what avenues do we have, exactly, to make sure our money isn't working against us
-during shareholder votes?
+So what avenues do we have to make sure our money isn't working against us
+during shareholder votes, while also maintaining a responsible and diversified 
+retirement portfolio?
 
 ## Passive funds, active investing
 
@@ -80,7 +82,7 @@ No. 1 Transform 500 ETF.
 
 ### The Sphere Fossil-Free Mutual Fund
 
-The Sphere Fossil-Free mutual fund (`$SPFFX`) is similar to `$VOTE` in that it seeks to track
+The Sphere Fossil-Free mutual fund (`$SPFFX`) is similar to `$VFIAX` in that it seeks to track
 the largest companies in the United States, but differs by opting to exclude major climate
 antagonists like oil, gas, and some investor-owned utilities. It currently tracks 414 of the
 top 500 stocks in the S&P 500.
@@ -92,24 +94,24 @@ Sphere's backtraced analysis of the fund shows that the S&P 500 actually perform
 without fossil fuel stocks -- it yielded a 199% return over the traditional S&P 500's 178%
 return between 2012 and 2022.
 
-Similar to Engine No. 1's fund, `$SPFFX` votes your shares for the climate.
+Unlike the above ESG funds,`$SPFFX` votes your shares in favor of climate.
 
-| Company               | Proposal                                                                                       | Management Recommendation | `$SPFFX` Vote | `$VFIAX` Vote |
-|-----------------------|------------------------------------------------------------------------------------------------|---------------------------|---------------|---------------|
-| Campbell Soup Company | Assess and Report on the Company's Retirement Funds' Management of Systemic Climate Risk       | Against                   | TODO          | Against       |
-| General Mills, Inc    | Report on Absolute Plastic Packaging Use Reduction                                             | Against                   | TODO          | Against       |
-| Fedex Corporation     | Report on Climate Lobbying                                                                     | Against                   | TODO          | Against       |
-| Tesla, Inc            | Report on Corporate Climate Lobbying in line with Paris Agreement                              | Against                   | TODO          | Against       |
-| The Kroger Co.        | Report on Efforts to Eliminate HFCs in Refrigeration and Reduce GHG Emissions                  | Against                   | TODO          | Against       |
-| Morgan Stanley        | Adopt Fossil Fuel Lending and Underwriting Policy Consistent with IEA's Net Zero 2050 Scenario | Against                   | TODO          | Against       |
+| Company               | Proposal                                                                                       | Management Recommendation | `$SPFFX` Vote |
+|-----------------------|------------------------------------------------------------------------------------------------|---------------------------|---------------|
+| Campbell Soup Company | Assess and Report on the Company's Retirement Funds' Management of Systemic Climate Risk       | Against                   | TODO          |
+| General Mills, Inc    | Report on Absolute Plastic Packaging Use Reduction                                             | Against                   | TODO          |
+| Fedex Corporation     | Report on Climate Lobbying                                                                     | Against                   | TODO          |
+| Tesla, Inc            | Report on Corporate Climate Lobbying in line with Paris Agreement                              | Against                   | TODO          |
+| The Kroger Co.        | Report on Efforts to Eliminate HFCs in Refrigeration and Reduce GHG Emissions                  | Against                   | TODO          |
+| Morgan Stanley        | Adopt Fossil Fuel Lending and Underwriting Policy Consistent with IEA's Net Zero 2050 Scenario | Against                   | TODO          |
 
 In contrast to the Engine No. 1 fund, `$SPFFX` is a _mutual fund_. Among some other
 minor differences, this means that it's ready to be invested in within company
 sponsored retirement funds. Well, theoretically.
 
 Currently, Sphere's index fund is just over a year old and has just
-shy of $4M assets under management. Many brokerages will refuse to offer funds with so
-few assets; Charles Schwab will only offer funds managing $25M or more, for
+shy of $4MM assets under management. Many brokerages will refuse to offer funds with so
+few assets; Charles Schwab will only offer funds managing $25MM or more, for
 example. Guideline's 401k offerings have similar restrictions. Currently, `$SPFFX` is
 offered through the Vanguard, InteractiveBrokers, US Bank, and BNY Mellon brokerages.
 
@@ -126,14 +128,14 @@ Unlike the morally bankrupt shareholder votes that traditional retirement funds 
 shareholder votes exclusively on climate issues, but that is one of their most prominent 
 voting criteria.
 
-| Company               | Proposal                                                                                       | Management Recommendation | `$VOTE` Vote<sup>6</sup> | `$VFIAX` Vote |
-|-----------------------|------------------------------------------------------------------------------------------------|---------------------------|--------------------------|---------------|
-| Campbell Soup Company | Assess and Report on the Company's Retirement Funds' Management of Systemic Climate Risk       | Against                   | For                      | Against       |
-| General Mills, Inc    | Report on Absolute Plastic Packaging Use Reduction                                             | Against                   | For                      | Against       |
-| Fedex Corporation     | Report on Climate Lobbying                                                                     | Against                   | For                      | Against       |
-| Tesla, Inc            | Report on Corporate Climate Lobbying in line with Paris Agreement                              | Against                   | For                      | Against       |
-| The Kroger Co.        | Report on Efforts to Eliminate HFCs in Refrigeration and Reduce GHG Emissions                  | Against                   | For                      | Against       |
-| Morgan Stanley        | Adopt Fossil Fuel Lending and Underwriting Policy Consistent with IEA's Net Zero 2050 Scenario | Against                   | Against<sup>7</sup>      | Against       |
+| Company               | Proposal                                                                                       | Management Recommendation | `$VOTE` Vote<sup>6</sup> |
+|-----------------------|------------------------------------------------------------------------------------------------|---------------------------|--------------------------|
+| Campbell Soup Company | Assess and Report on the Company's Retirement Funds' Management of Systemic Climate Risk       | Against                   | For                      |
+| General Mills, Inc    | Report on Absolute Plastic Packaging Use Reduction                                             | Against                   | For                      |
+| Fedex Corporation     | Report on Climate Lobbying                                                                     | Against                   | For                      |
+| Tesla, Inc            | Report on Corporate Climate Lobbying in line with Paris Agreement                              | Against                   | For                      |
+| The Kroger Co.        | Report on Efforts to Eliminate HFCs in Refrigeration and Reduce GHG Emissions                  | Against                   | For                      |
+| Morgan Stanley        | Adopt Fossil Fuel Lending and Underwriting Policy Consistent with IEA's Net Zero 2050 Scenario | Against                   | Against<sup>7</sup>      |
 
 
 Since `$VOTE` does not have a special index it tracks, instead opting for the largest ~500
@@ -156,9 +158,9 @@ solutions if we forced them to give a shit.
 
 #### Footnotes 
 1. https://vds.issgovernance.com/vds/#/MjAxMA==/
-2. fjlksajfda
-3. fdlkasjfals
-4. fdjsalkfjda]
+2. http://vds.issproxy.com/SearchPage.php?CustomerID=10228
+3. https://vds.issgovernance.com/vds/#/MjMwOQ==/
+4. I could not find their shareholder proxy voting history. It doesn't matter, though, since this fund didn't hold any of the referenced companies. 
 5. lkdajfla
 6. https://vds.issgovernance.com/vds/#/MTI0OTg=
 7. TODO(kcianfarini) Understand why VOTE voted the way it did. 
