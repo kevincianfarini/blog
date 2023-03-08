@@ -11,39 +11,37 @@ favors `$SPFFX` over `$VOTE`.
 
 ## Introduction
 
-Your retirement nest egg is likely voting against the climate _hundreds of times_ per year.
-Retirement fund options, like Vanguard's mutual funds, overwhelmingly vote how company
-management recommends. As you might expect, management recommendations are often
-diametrically opposed to what the climate science demands humanity must do. For example, 
-the following is a sample of votes that the Vanguard 500 Index Fund (`$VFIAX`) took
-on behalf of shareholders in 2022.
+Your retirement investment fund choices are likely proxying your shareholder voting rights 
+against corporate climate proposals _hundreds of times_ per year. Retirement fund options, like 
+Vanguard's mutual funds, overwhelmingly vote how company management recommends. As you might expect, 
+management recommendations are often diametrically opposed to what the climate science demands 
+humanity must do. For example, the following is a sample of votes that the Vanguard 500 Index Fund 
+(`$VFIAX`) took on behalf of shareholders in 2022.
 
-| Company               | Proposal                                                                                       | Management Recommendation | `$VFIAX` Vote<sup>1</sup> |
-|-----------------------|------------------------------------------------------------------------------------------------|---------------------------|---------------------------|
-| Campbell Soup Company | Assess and Report on the Company's Retirement Funds' Management of Systemic Climate Risk       | Against                   | Against                   |
-| General Mills, Inc    | Report on Absolute Plastic Packaging Use Reduction                                             | Against                   | Against                   |
-| Fedex Corporation     | Report on Climate Lobbying                                                                     | Against                   | Against                   |
-| Tesla, Inc            | Report on Corporate Climate Lobbying in line with Paris Agreement                              | Against                   | Against                   |
-| The Kroger Co.        | Report on Efforts to Eliminate HFCs in Refrigeration and Reduce GHG Emissions                  | Against                   | Against                   |
-| Morgan Stanley        | Adopt Fossil Fuel Lending and Underwriting Policy Consistent with IEA's Net Zero 2050 Scenario | Against                   | Against                   |
+| Company                            | Proposal                                                                                                | Management Recommendation | `$VFIAX` Vote<sup>1</sup> |
+|------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------|---------------------------|
+| Alphabet Inc.                      | A stockholder proposal regarding a climate lobbying report.                                             | Against                   | Against                   |
+| Citigroup Inc.                     | Stockholder proposal requesting that the Board adopt a policy to end new fossil fuel financing.         | Against                   | Against                   |
+| Honeywell International Inc.       | Shareholder proposal - Climate Lobbying Report.                                                         | Against                   | Against                   |
+| The Kroger Co.                     | Shareholder proposal - Report on Elimination of HFCs.                                                   | Against                   | Against                   |
+| The Travelers Companies, Inc.      | Shareholder proposal relating to policies regarding fossil fuel supplies.                               | Against                   | Against                   |
+| United Parcel Service, Inc.        | To require adoption of independently verified science-based greenhouse gas emissions reduction targets. | Against                   | Against                   |
+| Wells Fargo & Company              | Shareholder proposal - Climate Change Policy                                                            | Against                   | Against                   |
 
 ## ESG is a false solution
 
 While environmental, social, and corporate governance (ESG) funds aim to solve 
 the above maligned corporate incentives, they're not good investment vehicles and 
-don't benefit the climate as much as you'd expect or hope. 
-
-In short, ESG is a framework that organizations implement in their corporate strategy 
-to limit their negative environmental, social and governance impact. These are salient 
-concerns when considering climate change, biodiversity, water management, corporate bribery, 
-corruption, and more. Climate concerned opponents of ESG have raised concerns about the 
+don't sway corporate climate policy as much as you'd expect or hope. Climate 
+concerned opponents of ESG have been raising concerns about the 
 [reporting and disclosure problems](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance#Disclosure_and_regulation)
-with ESG funds, for example. From an investing perspective ESG funds are suboptimal. 
-ESG indexes are typically actively managed and require much higher administrative fees 
-than their passively managed counterparts. 
+with ESG funds, for example. 
 
-The table below shows some of the most popular ESG funds and their associated cost over 
-30 years of investing the maximum 401k contribution in 2022 ($22,500). 
+From an investing perspective ESG funds are suboptimal. ESG indexes are typically 
+actively managed and require much higher administrative fees than their passively 
+managed counterparts. The table below shows some of the most popular ESG funds 
+and their associated cost over 30 years of investing the maximum 401k contribution 
+in 2022 ($22,500). 
 
 | Fund Name                       | Ticker   | Expense Ratio | Cost over 30 years | Nest egg value after 30 years |
 |---------------------------------|----------|---------------|--------------------|-------------------------------|
@@ -58,14 +56,15 @@ curated funds tended to vote better for climate, but lacked exposure to some of 
 during the shareholder voting process to make a big difference. Notably, `$NEXTX` only holds 51 companies,
 roughly 1/10th of the S&P 500. 
 
-| Company               | Proposal                                                                                       | Management Recommendation | `$VFTAX` Vote<sup>1</sup> | `$SUSA` Vote<sup>2</sup> | `$PRBLX` Vote<sup>3</sup> | `$NEXTX` Vote<sup>4</sup> |
-|-----------------------|------------------------------------------------------------------------------------------------|---------------------------|---------------------------|--------------------------|---------------------------|---------------------------|
-| Campbell Soup Company | Assess and Report on the Company's Retirement Funds' Management of Systemic Climate Risk       | Against                   | Against                   | Against                  | N/A                       | N/A                       |
-| General Mills, Inc    | Report on Absolute Plastic Packaging Use Reduction                                             | Against                   | Against                   | Against                  | N/A                       | N/A                       |
-| Fedex Corporation     | Report on Climate Lobbying                                                                     | Against                   | Against                   | Against                  | For                       | N/A                       |
-| Tesla, Inc            | Report on Corporate Climate Lobbying in line with Paris Agreement                              | Against                   | Against                   | For                      | N/A                       | N/A                       |
-| The Kroger Co.        | Report on Efforts to Eliminate HFCs in Refrigeration and Reduce GHG Emissions                  | Against                   | Against                   | Against                  | N/A                       | N/A                       |
-| Morgan Stanley        | Adopt Fossil Fuel Lending and Underwriting Policy Consistent with IEA's Net Zero 2050 Scenario | Against                   | Against                   | Against                  | N/A                       | N/A                       |
+| Company                       | Proposal                                                                                                | Management Recommendation | `$VFTAX` Vote<sup>1</sup> | `$SUSA` Vote<sup>2</sup> | `$PRBLX` Vote<sup>3</sup> | `$NEXTX` Vote<sup>4</sup> |
+|-------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------|---------------------------|--------------------------|---------------------------|---------------------------|
+| Alphabet Inc.                 | A stockholder proposal regarding a climate lobbying report.                                             | Against                   | Against                   | Against                  | For                       | N/A                       |
+| Citigroup Inc.                | Stockholder proposal requesting that the Board adopt a policy to end new fossil fuel financing.         | Against                   | Against                   | Against                  | N/A                       | N/A                       |
+| Honeywell International Inc.  | Shareholder proposal - Climate Lobbying Report.                                                         | Against                   | N/A                       | Against                  | N/A                       | N/A                       |
+| The Kroger Co.                | Shareholder proposal - Report on Elimination of HFCs.                                                   | Against                   | Against                   | Against                  | N/A                       | N/A                       |
+| The Travelers Companies, Inc. | Shareholder proposal relating to policies regarding fossil fuel supplies.                               | Against                   | Against                   | Against                  | N/A                       | N/A                       |
+| United Parcel Service, Inc.   | To require adoption of independently verified science-based greenhouse gas emissions reduction targets. | Against                   | Against                   | Against                  | N/A                       | N/A                       |
+| Wells Fargo & Company         | Shareholder proposal - Climate Change Policy                                                            | Against                   | N/A                       | Against                  | N/A                       | N/A                       |
 
 So what avenues do we have to make sure our money isn't working against us
 during shareholder votes, while also maintaining a responsible and diversified 
@@ -96,14 +95,15 @@ return between 2012 and 2022.
 
 Unlike the above ESG funds,`$SPFFX` votes your shares in favor of climate.
 
-| Company               | Proposal                                                                                       | Management Recommendation | `$SPFFX` Vote |
-|-----------------------|------------------------------------------------------------------------------------------------|---------------------------|---------------|
-| Campbell Soup Company | Assess and Report on the Company's Retirement Funds' Management of Systemic Climate Risk       | Against                   | TODO          |
-| General Mills, Inc    | Report on Absolute Plastic Packaging Use Reduction                                             | Against                   | TODO          |
-| Fedex Corporation     | Report on Climate Lobbying                                                                     | Against                   | TODO          |
-| Tesla, Inc            | Report on Corporate Climate Lobbying in line with Paris Agreement                              | Against                   | TODO          |
-| The Kroger Co.        | Report on Efforts to Eliminate HFCs in Refrigeration and Reduce GHG Emissions                  | Against                   | TODO          |
-| Morgan Stanley        | Adopt Fossil Fuel Lending and Underwriting Policy Consistent with IEA's Net Zero 2050 Scenario | Against                   | TODO          |
+| Company                            | Proposal                                                                                                | Management Recommendation | `$SPFFX` Vote<sup>5</sup> |
+|------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------|---------------------------|
+| Alphabet Inc.                      | A stockholder proposal regarding a climate lobbying report.                                             | Against                   | For                       |
+| Citigroup Inc.                     | Stockholder proposal requesting that the Board adopt a policy to end new fossil fuel financing.         | Against                   | For                       |
+| Honeywell International Inc.       | Shareholder proposal - Climate Lobbying Report.                                                         | Against                   | For                       |
+| The Kroger Co.                     | Shareholder proposal - Report on Elimination of HFCs.                                                   | Against                   | For                       |
+| The Travelers Companies, Inc.      | Shareholder proposal relating to policies regarding fossil fuel supplies.                               | Against                   | For                       |
+| United Parcel Service, Inc.        | To require adoption of independently verified science-based greenhouse gas emissions reduction targets. | Against                   | For                       |
+| Wells Fargo & Company              | Shareholder proposal - Climate Change Policy                                                            | Against                   | For                       |
 
 In contrast to the Engine No. 1 fund, `$SPFFX` is a _mutual fund_. Among some other
 minor differences, this means that it's ready to be invested in within company
@@ -128,14 +128,15 @@ Unlike the morally bankrupt shareholder votes that traditional retirement funds 
 shareholder votes exclusively on climate issues, but that is one of their most prominent 
 voting criteria.
 
-| Company               | Proposal                                                                                       | Management Recommendation | `$VOTE` Vote<sup>6</sup> |
-|-----------------------|------------------------------------------------------------------------------------------------|---------------------------|--------------------------|
-| Campbell Soup Company | Assess and Report on the Company's Retirement Funds' Management of Systemic Climate Risk       | Against                   | For                      |
-| General Mills, Inc    | Report on Absolute Plastic Packaging Use Reduction                                             | Against                   | For                      |
-| Fedex Corporation     | Report on Climate Lobbying                                                                     | Against                   | For                      |
-| Tesla, Inc            | Report on Corporate Climate Lobbying in line with Paris Agreement                              | Against                   | For                      |
-| The Kroger Co.        | Report on Efforts to Eliminate HFCs in Refrigeration and Reduce GHG Emissions                  | Against                   | For                      |
-| Morgan Stanley        | Adopt Fossil Fuel Lending and Underwriting Policy Consistent with IEA's Net Zero 2050 Scenario | Against                   | Against<sup>7</sup>      |
+| Company                       | Proposal                                                                                                | Management Recommendation | `$VOTE` Vote<sup>6</sup> |
+|-------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------|--------------------------|
+| Alphabet Inc.                 | A stockholder proposal regarding a climate lobbying report.                                             | Against                   | For                      |
+| Citigroup Inc.                | Stockholder proposal requesting that the Board adopt a policy to end new fossil fuel financing.         | Against                   | Against<sup>7</sup>      |
+| Honeywell International Inc.  | Shareholder proposal - Climate Lobbying Report.                                                         | Against                   | For                      |
+| The Kroger Co.                | Shareholder proposal - Report on Elimination of HFCs.                                                   | Against                   | For                      |
+| The Travelers Companies, Inc. | Shareholder proposal relating to policies regarding fossil fuel supplies.                               | Against                   | For                      |
+| United Parcel Service, Inc.   | To require adoption of independently verified science-based greenhouse gas emissions reduction targets. | Against                   | For                      |
+| Wells Fargo & Company         | Shareholder proposal - Climate Change Policy                                                            | Against                   | For                      |
 
 
 Since `$VOTE` does not have a special index it tracks, instead opting for the largest ~500
@@ -160,7 +161,10 @@ solutions if we forced them to give a shit.
 1. https://vds.issgovernance.com/vds/#/MjAxMA==/
 2. http://vds.issproxy.com/SearchPage.php?CustomerID=10228
 3. https://vds.issgovernance.com/vds/#/MjMwOQ==/
-4. I could not find their shareholder proxy voting history. It doesn't matter, though, since this fund didn't hold any of the referenced companies. 
-5. lkdajfla
+4. I could not find their shareholder proxy voting history. It doesn't 
+matter, though, since this fund didn't hold any of the referenced companies. 
+5. https://www.sec.gov/Archives/edgar/data/1359057/000089418922006545/0000894189-22-006545-index.htm
 6. https://vds.issgovernance.com/vds/#/MTI0OTg=
-7. TODO(kcianfarini) Understand why VOTE voted the way it did. 
+7. I was quite surprised to see Engine No. 1 vote against this proposal, 
+especially since it voted for other similar proposals. I've emailed the 
+fund managers and am awaiting a reply. 
